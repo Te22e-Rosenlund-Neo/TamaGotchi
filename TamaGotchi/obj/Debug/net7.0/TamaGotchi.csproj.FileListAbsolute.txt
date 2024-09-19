@@ -1,0 +1,14 @@
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\TamaGotchi\TamaGotchi\bin\Debug\net7.0\TamaGotchi.exe
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\TamaGotchi\TamaGotchi\bin\Debug\net7.0\TamaGotchi.deps.json
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\TamaGotchi\TamaGotchi\bin\Debug\net7.0\TamaGotchi.runtimeconfig.json
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\TamaGotchi\TamaGotchi\bin\Debug\net7.0\TamaGotchi.dll
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\TamaGotchi\TamaGotchi\bin\Debug\net7.0\TamaGotchi.pdb
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\TamaGotchi\TamaGotchi\obj\Debug\net7.0\TamaGotchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\TamaGotchi\TamaGotchi\obj\Debug\net7.0\TamaGotchi.AssemblyInfoInputs.cache
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\TamaGotchi\TamaGotchi\obj\Debug\net7.0\TamaGotchi.AssemblyInfo.cs
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\TamaGotchi\TamaGotchi\obj\Debug\net7.0\TamaGotchi.csproj.CoreCompileInputs.cache
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\TamaGotchi\TamaGotchi\obj\Debug\net7.0\TamaGotchi.dll
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\TamaGotchi\TamaGotchi\obj\Debug\net7.0\refint\TamaGotchi.dll
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\TamaGotchi\TamaGotchi\obj\Debug\net7.0\TamaGotchi.pdb
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\TamaGotchi\TamaGotchi\obj\Debug\net7.0\TamaGotchi.genruntimeconfig.cache
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\TamaGotchi\TamaGotchi\obj\Debug\net7.0\ref\TamaGotchi.dll
